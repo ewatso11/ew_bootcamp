@@ -1,2 +1,3 @@
 # ew_bootcamp
-ew bootcamp randy
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
